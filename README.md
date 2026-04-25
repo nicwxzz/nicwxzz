@@ -1,8 +1,6 @@
 # 👨🏻‍💻 Nicolas Oliveira
 
-**`Analista de Qualidade de Software (QA)`**
-
-Me chamo Nicolas, tenho 17 anos e sou natural de Salvador - BA. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e tenho interesse na área de Qualidade de Software, buscando entender como garantir o bom funcionamento das aplicações e a melhor experiência para o usuário. Venho desenvolvendo meus conhecimentos em testes de software, tanto manuais quanto automatizados, além de estudar boas práticas e ferramentas utilizadas na área.
+Meu nome é Nicolas, tenho 17 anos e atualmente estou cursando Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e estou focado em construir uma base sólida em desenvolvimento de software, explorando tanto front-end quanto back-end enquanto continuo aprimorando minhas habilidades. Estou sempre em busca de novos desafios e oportunidades para crescer como desenvolvedor.
 
 ---
 
