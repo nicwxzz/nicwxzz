@@ -17,8 +17,8 @@ My name is Nicolas, I’m 17 years old and currently studying Systems Analysis a
 
 ---
 
-### 🌐 Onde me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-oliveiraa)
+## 🌐 Onde me encontrar
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-oliveiraa)
 
-### 📫 Contato
+## 📫 Contato
 ✉️ [nicolasnoliveira2009@outlook.com](mailto:nicolasnoliveira2009@outlook.com)
