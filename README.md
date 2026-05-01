@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Nicolas Oliveira
 
-My name is Nicolas, I’m 17 years old and currently studying Systems Analysis and Development at SENAI. I’m passionate about technology and committed to building a strong foundation in software development, with interests in both front-end and back-end. I’m always looking for new challenges and opportunities to grow as a developer.\
+My name is Nicolas, I’m 17 years old and currently studying Systems Analysis and Development at SENAI. I’m passionate about technology and committed to building a strong foundation in software development, with interests in both front-end and back-end. I’m always looking for new challenges and opportunities to grow as a developer.
 
 ---
 
