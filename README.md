@@ -6,7 +6,7 @@
 ---
 
 # 👨🏻‍💻 Nicolas Oliveira
-Olá! Me chamo Nicolas, tenho 17 anos e atualmente estou cursando **Análise e Desenvolvimento de Sistemas no SENAI**. Sou apaixonado por tecnologia e focado em construir uma base sólida no desenvolvimento de software. Tenho interesse em **front-end** e **back-end**, sempre buscando evoluir através de projetos práticos e novos desafios.
+Olá! Me chamo Nicolas, tenho 17 anos e curso Análise e Desenvolvimento de Sistemas no SENAI. Venho desenvolvendo projetos próprios focados em aplicações web, trabalhando tanto no front-end quanto no back-end. Tenho experiência prática com JavaScript, React, Node.js e banco de dados com MongoDB, além de utilizar ferramentas como Git, Postman e Cypress no desenvolvimento e testes das minhas aplicações. Busco sempre transformar conhecimento em projetos reais, evoluindo na prática e entendendo como as coisas funcionam de ponta a ponta. Atualmente, estou focado em aprimorar minhas habilidades como desenvolvedor full-stack, criando soluções cada vez mais completas e bem estruturadas.
 
 ---
 
