@@ -1,24 +1,49 @@
-# 👨🏻‍💻 Nicolas Oliveira
-
-My name is Nicolas, I’m 17 years old and currently studying Systems Analysis and Development at SENAI. I’m passionate about technology and committed to building a strong foundation in software development, with interests in both front-end and back-end. I’m always looking for new challenges and opportunities to grow as a developer.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?size=28&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+Nicolas+Oliveira&color=9CA3AF" />
+  <img src="https://readme-typing-svg.herokuapp.com/?size=28&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full-Stack+em+formação&color=6B7280" />
+</p>
 
 ---
 
-### 🛠️ Languages & Technologies
+# 👨🏻‍💻 Nicolas Oliveira
+Olá! Me chamo Nicolas, tenho 17 anos e atualmente estou cursando **Análise e Desenvolvimento de Sistemas no SENAI**. Sou apaixonado por tecnologia e focado em construir uma base sólida no desenvolvimento de software. Tenho interesse em **front-end** e **back-end**, sempre buscando evoluir através de projetos práticos e novos desafios.
 
-<img align="left" alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img align="left" alt="React" title="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-<img align="left" alt="Node.js" title="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-<img align="left" alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img align="left" alt="GitHub" title="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-<img align="left" alt="Postman" title="Postman" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"/>
-<img align="left" alt="Cypress" title="Cypress" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg"/>
-<br clear="left"/>
+---
+
+## 🚀 Sobre mim
+- 🎓 Estudante de ADS no SENAI  
+- 💻 Foco em desenvolvimento full-stack  
+- 📚 Aprendizado contínuo  
+- ⚡ Experiência com projetos próprios no GitHub  
+
+---
+
+## 🛠️ Tecnologias
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,python,mongodb,git,github,postman,cypress,html,css" />
+</p>
+
+---
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nicwxzz&show_icons=true&theme=tokyonight" />
+  <img height="160em" src="https://streak-stats.demolab.com?user=nicwxzz&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🌐 Onde me encontrar
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-oliveiraa)
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nicolas-oliveiraa/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
 
 ## 📫 Contato
-✉️ [nicolasnoliveira2009@outlook.com](mailto:nicolasnoliveira2009@outlook.com)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Email-nicolasnoliveira2009@outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</p>
