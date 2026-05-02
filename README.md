@@ -11,10 +11,8 @@ Olá! Me chamo Nicolas, tenho 17 anos e curso Análise e Desenvolvimento de Sist
 ---
 
 ## 🚀 Sobre mim
-- 🎓 Estudante de ADS no SENAI  
-- 💻 Foco em desenvolvimento full-stack  
-- 📚 Aprendizado contínuo  
-- ⚡ Experiência com projetos próprios no GitHub  
+- 🎓 Estudante de ADS no SENAI
+- 💻 Foco em desenvolvimento full-stack
 
 ---
 
