@@ -18,7 +18,7 @@ Olá! Me chamo Nicolas, tenho 17 anos e atualmente estou cursando **Análise e D
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Tecnologias & Ferramentas
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,python,mongodb,git,github,postman,cypress,html,css" />
 </p>
