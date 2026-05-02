@@ -32,18 +32,15 @@ Olá! Me chamo Nicolas, tenho 17 anos e atualmente estou cursando **Análise e D
 
 ---
 
-## 🌐 Onde me encontrar
-
+## 🌐 Contato
 <p align="center">
-  <a href="https://www.linkedin.com/in/nicolas-oliveiraa/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://github.com/nicwxzz">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</p>
-
----
-
-## 📫 Contato
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Email-nicolasnoliveira2009@outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/nicolas-oliveiraa/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:nicolasnoliveira2009@outlook.com?subject=Contato%20via%20GitHub">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
